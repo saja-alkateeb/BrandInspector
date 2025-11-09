@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "BrandInspector.Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BrandInspector.Api.Models.AuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BrandInspector.Api.Controllers.BrandController",
+    "Method": "GetColors",
+    "RelativePath": "brand/colors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BrandInspector.Api.Controllers.BrandController",
+    "Method": "GetFonts",
+    "RelativePath": "brand/fonts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BrandInspector.Api.Controllers.BrandController",
+    "Method": "GetSizes",
+    "RelativePath": "brand/sizes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

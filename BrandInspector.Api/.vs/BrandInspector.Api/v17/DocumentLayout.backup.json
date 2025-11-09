@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\models\\brandsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\models\\brandsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\brandinspector.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\brandinspector.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|c:\\users\\sajaalkhateeb\\downloads\\brandinspector.api\\brandinspector.api\\brandinspector.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92E5BA6F-1350-4D89-B217-9BD01296FB9A}|BrandInspector.Api\\BrandInspector.Api.csproj|solutionrelative:brandinspector.api\\brandinspector.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Program.cs",
+              "RelativeToolTip": "BrandInspector.Api\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:14:04.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Services\\JwtService.cs",
+              "RelativeToolTip": "BrandInspector.Api\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:13:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\appsettings.json",
+              "RelativeToolTip": "BrandInspector.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T07:13:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Models\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\Models\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Models\\AuthRequest.cs",
+              "RelativeToolTip": "BrandInspector.Api\\Models\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:10:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\Models\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "BrandInspector.Api\\Models\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:11:09.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandSettings.cs",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Models\\BrandSettings.cs",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\Models\\BrandSettings.cs",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Models\\BrandSettings.cs",
+              "RelativeToolTip": "BrandInspector.Api\\Models\\BrandSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:11:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BrandInspector.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:14:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "BrandInspector.Api\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T07:15:23.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BrandInspector.Api",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\BrandInspector.Api.csproj",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\BrandInspector.Api.csproj",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\BrandInspector.Api.csproj",
+              "RelativeToolTip": "BrandInspector.Api\\BrandInspector.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T07:17:58.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAQwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-09T07:18:17.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandInspector.Api",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\BrandInspector.Api.csproj",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\BrandInspector.Api.csproj",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\BrandInspector.Api.csproj",
+              "RelativeToolTip": "BrandInspector.Api\\BrandInspector.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T07:18:46.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BrandInspector.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SajaAlKhateeb\\Downloads\\BrandInspector.Api\\BrandInspector.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BrandInspector.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T07:21:47.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
