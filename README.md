@@ -1,4 +1,5 @@
 Brand Inspector (.NET Framework 4.8.1 + Backend API)
+
 📘 Overview
 
 Brand Inspector is a Windows Forms application designed to verify PowerPoint (.pptx) files for brand compliance — checking whether fonts, colors, and text sizes match the organization’s approved standards.
@@ -6,6 +7,7 @@ Brand Inspector is a Windows Forms application designed to verify PowerPoint (.p
 It authenticates to a backend API using JWT, retrieves the official brand settings, and performs automated scanning — without requiring Microsoft Office or VSTO.
 
 Architecture
+
 🖥️ Client (WinForms)
 
 Built on .NET Framework 4.8.1
@@ -54,8 +56,7 @@ BrandInspector/
 
 🚀 Setup Instructions
 1️⃣ Clone & Build
-git clone https://github.com/your-repo/BrandInspector.git
-cd BrandInspector
+git clone repository
 
 
 Open BrandInspector.sln in Visual Studio 2022
